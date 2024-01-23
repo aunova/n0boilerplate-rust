@@ -10,6 +10,7 @@ color-eyre = "0.6.2"
 rstest = "0.18.2"
 rayon = "1.8"
 const_panic = "0.2"
+
 [lints.rust]
 unsafe_code = "forbid"
 
